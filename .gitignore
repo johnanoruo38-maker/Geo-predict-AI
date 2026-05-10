@@ -1,0 +1,16 @@
+# Frontend
+Frontend/node_modules
+Frontend/dist
+Frontend/.env
+
+# Backend
+Backend/venv
+Backend/__pycache__
+Backend/*.pkl
+Backend/data/
+Backend/models/
+Backend/.env
+
+# System
+.DS_Store
+Thumbs.db
